@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @priyanshub21
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning material science
-- 💞️ I’m looking to collaborate on XUVI
-- 📫 How to reach me iit kanpur
+- 🌱 I’m currently doing B.Tech in material science at iit kanpur
+-    Machine learning and data science
+
 
 <!---
 priyanshub21/priyanshub21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
